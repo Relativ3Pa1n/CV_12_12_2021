@@ -43,7 +43,7 @@ To become a member of a security organization as a penetration tester or red tea
 ## Senior Penetration Tester, Schellman, 2023-Present
 - Lead and managed FedRAMP attestation engagements covering phishing, web/client/mobile application, external, and internal attack vectors
 - Organized and managed PCI network segmentation and configuration review in cloud environments
-- Regularly added content to knowledge share
+- Vishing and Phishing Social Engineering Campaigns
 ## Security Consultant, Avertium, 2022-2023
 - Penetration testing for internal, external, web application pentests as well as wireless and cloud configuration audits to ensure policy and regulation compliance (NIST, ISO, PCI, CIS)
 - Working directly with clients for pre and post engagement calls to deliver actionable risk assessments
